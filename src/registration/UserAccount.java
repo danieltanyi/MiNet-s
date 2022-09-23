@@ -4,7 +4,8 @@ package registration;
 public class UserAccount extends Register {
     public UserAccount() {
         try {
-            System.out.println("===================");
+            System.out.println("Welcome to MiNet’s Warehouse Management System\n");
+            System.out.println("========Main Menu options===========");
             System.out.println("1. Create user account");
             System.out.println("2. Login user account");
             System.out.println("Enter choice : ");
@@ -24,5 +25,4 @@ public class UserAccount extends Register {
 
         }
     }
-
 }

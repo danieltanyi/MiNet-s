@@ -21,9 +21,9 @@ public class Login {
             InputStream input = Files.newInputStream(path);
             BufferedReader reader = new BufferedReader(new InputStreamReader(input));
             System.out.println("\nL O G I N\n ");
-            System.out.print("Enter username ");
+            System.out.print("Enter username: ");
             String username = scanner.nextLine();
-            System.out.print("Enter password ");
+            System.out.print("Enter password: ");
             String password = scanner.nextLine();
             String temporary = null;
             String userName;
