@@ -150,8 +150,6 @@ public class Cashier {
     }
 
     public void update() {
-        //has a functionality of editing name, project and date of the project
-        // get their name
         printer.printUpdateOptions();
         switch (userInput()) {
             case "0":
