@@ -22,6 +22,7 @@ Choose The Login choice you want to perform:
 [3] Manager Log-In Portal: 
 
 * If choose to perform the admin option
+
 Welcome Admin
 
  Welcome to MiNet’s Warehouse Management System! 
