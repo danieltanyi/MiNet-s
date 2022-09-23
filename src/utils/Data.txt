@@ -1,0 +1,2 @@
+¨Ì sr java.util.ArrayListxÅ“ô«aù I sizexp   w   sr ToDoApp.Taskt<{ÿƒ L createdDatet Ljava/util/Date;L dueDateq ~ L projectNamet Ljava/lang/String;L statust LToDoApp/Status;L titleq ~ xpsr java.util.DatehjÅKYt  xpw  q·Äxsq ~ w  q·Äxt Eating~r ToDoApp.Status          xr java.lang.Enum          xpt PENDINGt 
+Cook Lunchx
